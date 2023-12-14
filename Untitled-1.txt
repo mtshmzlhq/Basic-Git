@@ -1,0 +1,9 @@
+7dcbc69 (HEAD -> master) merubah file2.txt menjadi file_2.txt
+24468fb menambah file1.txt
+33a63a9 menghapus file3.txt
+9da4369 melakukan perubahan di file1.txt
+8ae4bc0 menambah file3.txt
+2744217 menambah file2.txt
+0fce378 menambah file1.txt
+
+git reset --soft 33a63a9
