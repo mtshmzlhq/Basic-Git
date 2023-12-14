@@ -8,3 +8,6 @@ Branching
 Pull Request adalah meminta pemilik repository untuk mengambil peruabahan yang telah dilakukan
 
 Merge Conflict adalah baris yang sama diubah oleh 2 branch yang berbeda
+
+Menghapus Branch
+git branch -d (Subject)

@@ -1,0 +1,3 @@
+Jenis Merge
+- Fash Forward (direct path): 
+- Three-way Merge :
