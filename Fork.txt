@@ -1,0 +1,6 @@
+Fork/Forking
+- menduplikat repository orang lain ke akun Github sendiri(Beserta history-nya)
+- jembatan antara repository original dan duplikatnya
+- modifikasi terhadap repository original
+- kontribusi pada repository orang lain
+- Fork != Clone

@@ -1,0 +1,36 @@
+VCS(Version Control System) sebuah sistem yang mengelola perubahan dari sebuah dokumen, program komputer, website dan kumpulan informasi lain.
+
+Kenapa Kita harus menggunakan VSC(Version Control System)?
+ 
+# dapat melacak history dalam sebuah perubahan versi aplikasi
+# dapat Menampilkan Product yang sudah kita buat
+# di design untuk mengelola source code 
+# memungkinkan bekerja berkolaborasi dengan lebih baik
+# mengetahui siapa yang melakukan dan kapan sebuah perubahan terjadi
+# memungkinkan kita untuk kembali keadaan sebelum perubahan (Checkout)
+
+Contoh Selain GIT
+# SVN
+# Mercurial
+# CVS
+
+GIT adalah sebuah software VCS terdistribusi untuk mengelola perubahan, Foldernya disebut dengan repository/repo
+
+GitHub adalah website/layanan untuk mengelola project Git
+
+Riwayat perubahan file disimpan menggunakan serangkaian commit
+
+Layanan selain GitHub
+-BitBucket
+-GitLab
+
+Istilah dalam GIt
+- Branch: Cabang bebas dari sebuah commit
+- Merge: Menggabungkan Branch
+- Push: Mengirimkan commit
+- Pull: Mengambil commit dari repo
+- Commit: rekaman/snapshot dari repository kita
+- CheckOut: Berpindah ke sebuah commit
+- Clone: Mengambil repository dari remote
+- Remote: Sumber yang memiliki repository
+- Hash:Penanda unik pada sebuh commit

@@ -1,0 +1,14 @@
+Git Command (Local)
+$ git init
+$ git add <file(s)>
+$ git status
+$ git commit
+$ git config
+$ git branch
+$ git help
+...
+
+3 Area pada Repository Git
+- Working Tree : Folder tempat bekerja
+- Staging Area : Memberi tau git user telah melakukan perubahan -> .git
+- History : Folder yang sudah di commit ->.git

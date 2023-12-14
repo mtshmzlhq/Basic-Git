@@ -1,0 +1,10 @@
+Branching
+- Jalur 'Development' bebas dari sebuah commit
+- Membuat Git Branch
+- Membuat Snapshot tanpa menggangu jalur utama (Master Branch)
+- Fitur Experimental
+- 2 orang mengerjakan repository yang sama
+
+Pull Request adalah meminta pemilik repository untuk mengambil peruabahan yang telah dilakukan
+
+Merge Conflict adalah baris yang sama diubah oleh 2 branch yang berbeda
