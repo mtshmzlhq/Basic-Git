@@ -1,0 +1,23 @@
+*   [33m4a59f6b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m Merge branch 'staff'
+[31m|[m[32m\[m  
+[31m|[m * [33mc139c3a[m[33m ([m[1;32mstaff[m[33m)[m Menambahkan file staff
+* [32m|[m [33me4616f3[m Menambah teks Merge
+* [32m|[m   [33m53d66da[m Merge branch 'dosen'
+[33m|[m[34m\[m [32m\[m  
+[33m|[m * [32m|[m [33mf1827e1[m Menambahkan file dosen
+[33m|[m [32m|[m[32m/[m  
+[33m|[m * [33m0b40028[m Mengubaha NIM Mahasiswa
+[33m|[m * [33mf8e8ec1[m Menambahkan File Mahasiswa
+[33m|[m * [33m2dc204e[m commit
+[33m|[m * [33mc7210d0[m commit
+[33m|[m * [33m728c7c4[m  menghapus style dan menambahkan script
+[33m|[m * [33m0c9e16e[m lanjutan commit
+[33m|[m * [33ma1a73b0[m Commit folder
+[33m|[m * [33m0e71337[m git config --global.name "mtshmzlhq"
+* [34m|[m [33mb4670a8[m menambah file3.txt sebanyak 2 baris
+* [34m|[m [33m33a63a9[m menghapus file3.txt
+[34m|[m[34m/[m  
+* [33m9da4369[m melakukan perubahan di file1.txt
+* [33m8ae4bc0[m menambah file3.txt
+* [33m2744217[m menambah file2.txt
+* [33m0fce378[m menambah file1.txt
